@@ -1,0 +1,22 @@
+{
+  "name": "groundwork",
+  "owner": {
+    "name": "Andrew Leach"
+  },
+  "metadata": {
+    "description": "Plan a feature on a tldraw canvas before any spec or code: gaps, flows, decisions, plan and mockups."
+  },
+  "plugins": [
+    {
+      "name": "groundwork",
+      "source": "./",
+      "description": "Turns a feature ticket into an agreed plan on a tldraw canvas: maps today's code, finds the gaps, draws the process flows, settles every decision with you one at a time, then builds the plan and mockups from real components.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Andrew Leach"
+      },
+      "license": "MIT",
+      "keywords": ["planning", "discovery", "feature-design", "tldraw", "process-flows", "mockups"]
+    }
+  ]
+}

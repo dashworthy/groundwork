@@ -1,0 +1,24 @@
+{
+  "name": "groundwork",
+  "version": "0.1.0",
+  "description": "Turns a feature ticket into an agreed plan on a tldraw canvas: maps today's code, finds the gaps, draws the process flows, settles every decision with you one at a time, then builds the plan and mockups from real components.",
+  "author": {
+    "name": "Andrew Leach"
+  },
+  "license": "MIT",
+  "keywords": ["planning", "discovery", "feature-design", "tldraw", "process-flows", "mockups", "skills", "codex"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Groundwork",
+    "shortDescription": "Plan a feature on a tldraw canvas before any spec or code.",
+    "longDescription": "Name a feature and Groundwork maps how the code works today, lays out a Discovery canvas (overview, gaps with file:line evidence, process flows, a behaviour matrix, decisions and follow-ups), and walks you through every gap and decision one at a time until each is agreed. Only then does it build a Plan page (data, behaviour, pages) and realistic mockups from the project's real components, ready to hand to your spec workflow.",
+    "developerName": "Andrew Leach",
+    "category": "developer-tools",
+    "capabilities": ["Interactive", "Write", "skills"],
+    "defaultPrompt": [
+      "Plan multi-location support before we write any specs.",
+      "Find the gaps in the logic for this ticket and draw its process flows.",
+      "Pick up the discovery canvas where we left off."
+    ]
+  }
+}

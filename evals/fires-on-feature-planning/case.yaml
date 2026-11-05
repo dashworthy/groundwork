@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fires-on-feature-planning
+expected_outcome: |
+  The discovering-features skill fires on a request to plan a multi-part feature before specs are written.

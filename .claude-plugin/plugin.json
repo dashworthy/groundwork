@@ -1,0 +1,9 @@
+{
+  "name": "groundwork",
+  "version": "0.1.0",
+  "description": "Turns a feature ticket into an agreed plan on a tldraw canvas: maps today's code, finds the gaps, draws the process flows, settles every decision with you one at a time, then builds the plan and mockups from real components.",
+  "author": {
+    "name": "Andrew Leach"
+  },
+  "keywords": ["planning", "discovery", "feature-design", "tldraw", "process-flows", "mockups"]
+}

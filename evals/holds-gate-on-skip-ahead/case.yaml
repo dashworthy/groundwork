@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: holds-gate-on-skip-ahead
+expected_outcome: |
+  Asked to jump to mockups with gaps unreviewed and flows not agreed, the agent lists what is not yet agreed and asks before building, instead of producing mockups.
