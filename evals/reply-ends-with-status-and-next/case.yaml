@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: reply-ends-with-status-and-next
+expected_outcome: |
+  The reply records G3 as an Action, says what that gives up against the Query, updates the flows that use it, and ends with a status table and one Next item (G4) asking agree or change.

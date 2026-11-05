@@ -55,7 +55,7 @@ Two manifests share one `skills/` directory:
 
 ## Evals
 
-A `claude plugin eval` suite lives in [`evals/`](evals/). It checks that the skill fires on feature planning and gap hunting, stays quiet on one-line changes, and holds the gate when asked to jump to mockups early.
+A `claude plugin eval` suite lives in [`evals/`](evals/). It checks that the skill fires on feature planning and gap hunting, stays quiet on one-line changes, holds the gate when asked to jump to mockups early, and answers a review reply with the trade-off, the updated flows, the status table and one next item.
 
 ## Structure
 
